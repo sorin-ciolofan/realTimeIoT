@@ -11,4 +11,4 @@ Each SensorMeasurment object contains the following fields (as described in the 
     private String metricName;
     private Double value;
 
-
+DOI: 10.5281/zenodo.10436371 
